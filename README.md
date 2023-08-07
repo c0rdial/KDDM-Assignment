@@ -4,4 +4,4 @@
 
 * Document: https://uowmalaysia-my.sharepoint.com/:w:/g/personal/0132646_student_uow_edu_my/ERJ0ofNArMJCsjoJ5IozBAEBdELcQpTBDckS5tLDVQYv1g?e=x1NGVz
 
-* Slide: https://uowmalaysia-my.sharepoint.com/:p:/g/personal/0132646_student_uow_edu_my/EVOywxVfdyxOuouOEWSH4BgBl3vqrZGr5VAQSTl0BaBa-g?e=ppic4i
+* Slide: https://docs.google.com/presentation/d/1uL4iO4gIyNb0tt_oivmEGK5SiJzmUE38pt1jDe8U7Fk/edit?usp=sharing
